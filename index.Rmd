@@ -11,9 +11,9 @@ bibliography: references.bib
 
 
 
-```{r, install remotely, globalsettings, echo=FALSE, warning=FALSE, results='hide'}
-install.packages("remotes")
-remotes::install_github("rlesur/klippy")
+```{r, install remotely, globalsettings, echo=FALSE, warning=FALSE, results='hide', eval=FALSE}
+#install.packages("remotes")
+#remotes::install_github("rlesur/klippy")
 ``` 
 
 ```{r, globalsettings, echo=FALSE, warning=FALSE, results='hide'}
