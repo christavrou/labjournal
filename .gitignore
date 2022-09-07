@@ -1,3 +1,4 @@
+#do not forget to also change your_site.yml file to make sure we exclude some stuff
 # History files
 .Rhistory
 .Rapp.history
